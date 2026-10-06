@@ -22,5 +22,13 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "axios": "^1.20.0",
+    "lucide-react": "^1.47.0",
+    "motion": "^13.4.0",
+    "react-router": "^8.4.0",
+    "react-router-dom": "^7.18.4",
+    "typescript-paths": "^1.5.2"
+  }
 }
